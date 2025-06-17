@@ -37,7 +37,7 @@ h1{@font-face {
 
 span{color: rgb(255, 255, 0);}
 .pozadina{
-	background-image: url("file:///C:/Users/bobin/Desktop/P3/slike/pozadina.png")
+	background-image: url("slike/pozadina.png")
 }
 .drugapozadina{
 	background-color: white;
